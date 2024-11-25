@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormUi", "WinFormUi\WinFormUi.csproj", "{60E1A6A2-A117-445E-85C9-44912FEEEDFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileProcessors", "FileProcessors\FileProcessors.csproj", "{5C398580-6C23-446E-A713-C28D04897DD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E1A6A2-A117-445E-85C9-44912FEEEDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E1A6A2-A117-445E-85C9-44912FEEEDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E1A6A2-A117-445E-85C9-44912FEEEDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E1A6A2-A117-445E-85C9-44912FEEEDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C398580-6C23-446E-A713-C28D04897DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C398580-6C23-446E-A713-C28D04897DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C398580-6C23-446E-A713-C28D04897DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C398580-6C23-446E-A713-C28D04897DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
